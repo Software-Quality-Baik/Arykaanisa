@@ -41,4 +41,4 @@ Sebelum menggunakan kode ini, pastikan Anda telah memenuhi persyaratan berikut:
 
 3. Tunggu hingga pengujian selesai dieksekusi. Hasil pengujian akan ditampilkan di terminal.
 
-## Selamat! Anda telah menemukan cara untuk membuat hidup Anda lebih mudah dengan mengotomatiskan pengujian aplikasi web menggunakan kode ini. Sekarang, waktu luang Anda dapat digunakan untuk hal-hal yang lebih menyenangkan!
+## Selamat! Anda telah menemukan cara untuk mengotomatiskan pengujian aplikasi web, membebaskan waktu luang Anda untuk menikmati hal-hal yang lebih menyenangkan!
