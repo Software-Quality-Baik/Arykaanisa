@@ -2,7 +2,7 @@
 
 | Objek Pengujian | Hasil      | Lampiran                                                                    |
 | --------------- | ---------- | --------------------------------------------------------------------------- |
-| Cek Pola Tidur   | Berhasil ✔ | [dokumentasi](<./1214035_ArykaAnisaP_TestingSelenium.pdf) |
+| Cek Pola Tidur   | Berhasil ✔ | [dokumentasi](<./1214035_ArykaAnisaP_TestingSelenium.pdf>) |
 
 # Panduan Penggunaan
 
